@@ -1,0 +1,3 @@
+Hi my name is Liam Durcan and I'm a Freshman here at BU.
+My favorite class so far has definitely been DS110, I really enjoyed the project we did and loved learning more about ML.
+However, I would definitely say I generally enjoy the math aspects of Data Science more than programming. 
